@@ -1,13 +1,8 @@
-# Palm-Pet-Store
-
-Authors: Venus Mwende and Mercy Bore
-This website explains the details of the pet store, benifits of having pets, a caution, the contact address and location ofthe pet store.
-# Burger-Palace
-My Burger-Palace https://github.com/Venus-Kavunza/Burger_Palace
+Palm-Pet-Store https://github.com/Venus-Kavunza/Burger_Palace
 ## Author
-Venus Mwende
+Venus Mwende & Mercy Bore
 ### Description
-the website entails more about my Burger-Palace
+the website entails more about a Palm pet Store
 ### Prerequisities
 You need to have git installed
 You can install it with the following command in your terminal
